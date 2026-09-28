@@ -1,19 +1,32 @@
-Yahallo, Mat Uchiha-desu
-
+# Yahallo, Mat_Uchiha-desu 👋
 <img width="480" height="267" alt="goku-goku-yo" src="https://github.com/user-attachments/assets/42c79282-f470-4bab-adf7-6b88c803f7b0" />
 
+## 📖 Sobre mim
 
-<!--
-**Mat-uchiha/Mat-uchiha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da computação na UFAM buscando ser um grande programador e ajudar os outros usando tecnologia.
 
-Here are some ideas to get you started:
+Fora do modo profissional:
+- Grande entusiasta de animes e jogos
+- Fã de Dragon Ball, player de yugioh e mestre de fate/grand order
+- Escuto principalmente rock e j-rock/pop
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Principais skills e achievements adquiridos
+- Sobrevivi a álgebra 2
+- Python básico
+- Inglês mediano para bom
+- PIBIC em andamento sobre aprendizado por reforço em jogos
+
+## 🎮 IRL log
+Em construção
+
+---
+| "Just go for it if you want
+
+The scars you get there are the proof that you tried
+
+You will always regret, no matter how you live
+
+So just express your "now" "
+
+-Tsukuyomi
+
