@@ -1,4 +1,7 @@
-## Hi there 👋
+Yahallo, Mat Uchiha-desu
+
+<img width="480" height="267" alt="goku-goku-yo" src="https://github.com/user-attachments/assets/42c79282-f470-4bab-adf7-6b88c803f7b0" />
+
 
 <!--
 **Mat-uchiha/Mat-uchiha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
