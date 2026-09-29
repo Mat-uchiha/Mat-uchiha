@@ -22,11 +22,16 @@ Em construção
 ---
 | "Just go for it if you want
 
-The scars you get there are the proof that you tried
+| The scars you get there are the proof that you tried
 
-You will always regret, no matter how you live
+| You will always regret, no matter how you live
 
-So just express your "now" "
+| So just express your "now" "
 
 -Tsukuyomi
 
+<p align="center">
+  <img width="498" height="278" alt="kagerou-project-mekakucityactors" src="https://github.com/user-attachments/assets/b2fa4e4e-f51c-4144-93a7-a30f924b756b" />
+</p>
+
+<h2 align="center">Thanks for reading!</h2>
